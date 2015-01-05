@@ -6,6 +6,7 @@
 
 * [zlib](http://www.zlib.net/): http://zlib.net/zlib-1.2.8.tar.gz
 
+* [Getting started with SSH - Kimmo Suominen](https://kimmo.suominen.com/docs/ssh/)
 
 ##INSTALLING OpenSSH
 
